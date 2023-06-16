@@ -13,7 +13,7 @@
 <!--    <mvc:annotation-driven></mvc:annotation-driven>-->
 
     <!-- 扫包 -->
-    <context:component-scan base-package="com.iflytek"></context:component-scan>
+    <context:component-scan base-package="com.xjc"/>
 
     <!-- 配置视图解析 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
